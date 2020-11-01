@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Student | The Yansong Social Neuroscience Lab</title>
+    <link>/author/phd-student/</link>
+      <atom:link href="/author/phd-student/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD Student</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/phd-student/avatar_hu2a89d607e34f4415d6b94c1199d0557b_7148_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>PhD Student</title>
+      <link>/author/phd-student/</link>
+    </image>
+    
+  </channel>
+</rss>
