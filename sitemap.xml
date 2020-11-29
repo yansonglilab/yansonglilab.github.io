@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/books/</loc>
+  </url>
+  
+  <url>
     <loc>/home/</loc>
   </url>
   
   <url>
     <loc>/joinus/</loc>
+  </url>
+  
+  <url>
+    <loc>/materials/</loc>
   </url>
   
   <url>
